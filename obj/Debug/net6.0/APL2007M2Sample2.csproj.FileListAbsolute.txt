@@ -1,57 +1,115 @@
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\APL2007M2Sample2.exe
-C:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\APL2007M2Sample2.deps.json
-C:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\APL2007M2Sample2.runtimeconfig.json
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\APL2007M2Sample2.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\APL2007M2Sample2.pdb
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Buffers.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Codecs.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Codecs.Mqtt.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Common.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Handlers.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\DotNetty.Transport.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Iot.Device.Bindings.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Azure.Devices.Client.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Azure.Devices.Shared.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Newtonsoft.Json.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\SixLabors.ImageSharp.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.CodeDom.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Device.Gpio.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Drawing.Common.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.IO.Ports.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Management.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\System.Text.Json.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\UnitsNet.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
-c:\Coding with CoPilot\APL2007M2Sample2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.csproj.AssemblyReference.cache
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.GeneratedMSBuildEditorConfig.editorconfig
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.AssemblyInfoInputs.cache
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.AssemblyInfo.cs
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.csproj.CoreCompileInputs.cache
-C:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M.D04CD479.Up2Date
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.dll
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\refint\APL2007M2Sample2.dll
-c:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.pdb
-C:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\APL2007M2Sample2.genruntimeconfig.cache
-C:\Coding with CoPilot\APL2007M2Sample2\obj\Debug\net6.0\ref\APL2007M2Sample2.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.exe
+C:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.deps.json
+C:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.runtimeconfig.json
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.pdb
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Buffers.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Codecs.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Codecs.Mqtt.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Common.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Handlers.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Transport.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Iot.Device.Bindings.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Amqp.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Devices.Client.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Devices.Shared.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Newtonsoft.Json.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/SixLabors.ImageSharp.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.CodeDom.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Device.Gpio.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Drawing.Common.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.IO.Ports.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Management.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/System.Text.Json.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/UnitsNet.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux/lib/netstandard2.0/System.IO.Ports.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/osx/lib/netstandard2.0/System.IO.Ports.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.IO.Ports.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Management.dll
+c:/Coding with CoPilot/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.csproj.AssemblyReference.cache
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.GeneratedMSBuildEditorConfig.editorconfig
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.AssemblyInfoInputs.cache
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.AssemblyInfo.cs
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.csproj.CoreCompileInputs.cache
+C:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M.D04CD479.Up2Date
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.dll
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/refint/APL2007M2Sample2.dll
+c:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.pdb
+C:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.genruntimeconfig.cache
+C:/Coding with CoPilot/APL2007M2Sample2/obj/Debug/net6.0/ref/APL2007M2Sample2.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.deps.json
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.runtimeconfig.json
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/APL2007M2Sample2.pdb
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Buffers.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Codecs.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Codecs.Mqtt.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Common.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Handlers.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/DotNetty.Transport.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Iot.Device.Bindings.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Amqp.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Devices.Client.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Azure.Devices.Shared.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/SixLabors.ImageSharp.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.CodeDom.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Device.Gpio.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Drawing.Common.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.IO.Ports.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Management.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/System.Text.Json.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/UnitsNet.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-arm/native/libSystem.IO.Ports.Native.so
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux-x64/native/libSystem.IO.Ports.Native.so
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/linux/lib/netstandard2.0/System.IO.Ports.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/osx/lib/netstandard2.0/System.IO.Ports.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.IO.Ports.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Management.dll
+/workspaces/APL2007M2Sample2/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.csproj.AssemblyReference.cache
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.AssemblyInfoInputs.cache
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.AssemblyInfo.cs
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.csproj.CoreCompileInputs.cache
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.sourcelink.json
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M.D04CD479.Up2Date
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.dll
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/refint/APL2007M2Sample2.dll
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.pdb
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/APL2007M2Sample2.genruntimeconfig.cache
+/workspaces/APL2007M2Sample2/obj/Debug/net6.0/ref/APL2007M2Sample2.dll
